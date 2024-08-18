@@ -10,7 +10,7 @@ tools = [
 ]
 
 build_requires = [
-  "bazel"
+  "requests"
 ]
 
 build_command = "python {root}/build.py"
